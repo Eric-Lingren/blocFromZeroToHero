@@ -1,6 +1,6 @@
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:provider_practice/business_logic/cubits/counter_cubit.dart';
+import 'package:provider_practice/logic/cubits/counter_cubit.dart';
 
 void main() {
   group('CounterCubit', () {
